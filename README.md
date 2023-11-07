@@ -1,4 +1,4 @@
-<h1 align="center">&nbsp; Bienvenue!&nbsp;:wave:. </h1>
+<h1 align="center">&nbsp; Bienvenue!&nbsp;:wave: </h1>
 
 <p align="center"><img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" /></p>
 <h1 align="center">My name is Petar Neshkov and I am a Full Stack Web Developer.</h1>
@@ -10,12 +10,12 @@
 <hr/>
 
 <div align="center">
-    <img align="center" alt="github-snake" src="https://raw.githubusercontent.com/PetarNeshkov/PetarNeshkov/output/github-contribution-grid-snake-dark.svg" />
+    <img align="center" alt="github-snake" src="https://raw.githubusercontent.com/petarNeshkov/PetarNeshkov/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-<h4 align="center"><i>Some Stats</i></h4>
+<h3 align="center"><i>⚡ Stats ⚡</i></h3>
 
-<p align="center"><img src="![](https://komarev.com/ghpvc/?username=PetarNeshkov&style=flat-the-badge)"></img></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=petarneshkov&style=flat-the-badge&base=500"></img></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  

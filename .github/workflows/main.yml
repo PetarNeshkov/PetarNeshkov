@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Petar Readme
 
 on:
   workflow_dispatch:
@@ -7,16 +7,6 @@ on:
     - cron: "0 0 * * *"
 
 jobs:
-  update-readme:
-    name: Update this repo's README
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TOTAL: true
-          TIME_RANGE: all_time
-          BLOCKS: ->
   snake:
     runs-on: ubuntu-latest
     timeout-minutes: 10
@@ -24,7 +14,7 @@ jobs:
     steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v2
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
