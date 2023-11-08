@@ -1,7 +1,6 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <h1 style="text-align: center;">&nbsp; Bienvenue!&nbsp;:wave: </h1>
-  <p style="text-align: right;"><img src="https://komarev.com/ghpvc/?username=petarneshkov&style=flat-the-badge&base=500"></p>
-</div>
+<img align="right" src="https://komarev.com/ghpvc/?username=petarneshkov&style=flat-the-badge&base=500">
+<h1 style="text-align: center;">&nbsp; Bienvenue!&nbsp;:wave: </h1>
+
 
 <p align="center"><img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" /></p>
 <h1 align="center">My name is Petar Neshkov and I am a Full Stack Web Developer.</h1>
