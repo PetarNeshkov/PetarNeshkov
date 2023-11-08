@@ -1,3 +1,10 @@
+<style>
+  a {
+    text-decoration: none;
+    outline: none;
+  }
+</style>
+
 <img align="right" src="https://komarev.com/ghpvc/?username=petarneshkov&style=flat-the-badge&base=500">
 <h1 align="center">&nbsp; Bienvenue!&nbsp;:wave: </h1>
 
