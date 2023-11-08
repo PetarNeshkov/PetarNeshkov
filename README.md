@@ -17,7 +17,7 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=petarneshkov&style=flat-the-badge&base=500"></img></p>
 
-<h4 align="center"><i>As well as..</i></h4>
+
 <h3><i>My languages stats:</i></h3>
 
 <!--START_SECTION:waka-->
