@@ -5,7 +5,7 @@
 
 <h2 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/petar-neshkov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="petarneshkov" height="70" width="50" /></a>
+<a href="https://www.linkedin.com/in/petar-neshkov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="petarneshkov" height="70" width="150" /></a>
 </p>
 <hr/>
 
@@ -13,9 +13,16 @@
     <img align="center" alt="github-snake" src="https://raw.githubusercontent.com/petarNeshkov/PetarNeshkov/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-<h3 align="center"><i>⚡ Stats ⚡</i></h3>
+<h2 align="center"><i>⚡ Stats ⚡</i></h2>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=petarneshkov&style=flat-the-badge&base=500"></img></p>
+
+<h4 align="center"><i>As well as..</i></h4>
+<h3><i>My languages stats:</i></h3>
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
