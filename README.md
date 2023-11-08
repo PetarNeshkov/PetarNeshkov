@@ -28,9 +28,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
-<a href="https://www.w3schools.com/cs/" target="_blank" style="text-decoration: none; outline: none;" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" title="CSharp"/> </a>
+<a href="https://www.w3schools.com/cs/" target="_blank" text-decoration= "none" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" title="CSharp"/> </a>
 <img width="40" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".NET Core" title=".NET Core"/>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" title="React"/> </a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer" text-decoration= "none"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" title="React"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" title="TypeScript"/> </a> 
 <a href="https://learn.microsoft.com/en-us/ef/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/campusMVP/dotnetCoreLogoPack/master/Entity%20Framework%20Core/Bitmap%20RGB/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png" alt="efcore" width="40" height="40" title="Entity Framework Core"/> </a> 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" title="MS SQL"/> </a> 
