@@ -1,5 +1,5 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=petarneshkov&style=flat-the-badge&base=500">
-<h1 style="text-align: center;">&nbsp; Bienvenue!&nbsp;:wave: </h1>
+<h1 align="center">&nbsp; Bienvenue!&nbsp;:wave: </h1>
 
 
 <p align="center"><img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" /></p>
