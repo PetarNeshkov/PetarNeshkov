@@ -17,6 +17,17 @@
 <h2 align="center"><i>⚡ Stats: ⚡</i></h2>
 
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 2 hrs 58 mins
+
+Other           3 hrs 9 mins    >>>>>>>>>>>>>------------   51.41 %
+C#              1 hr 26 mins    >>>>>>-------------------   23.57 %
+Markdown        43 mins         >>>----------------------   11.71 %
+YAML            41 mins         >>>----------------------   11.30 %
+TypeScript      3 mins          -------------------------   00.87 %
+```
+
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
