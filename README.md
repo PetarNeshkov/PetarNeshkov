@@ -19,13 +19,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 12 hrs 9 mins
+Total Time: 21 hrs 12 mins
 
-C#              7 hrs 12 mins   >>>>>>>>>>>>-------------   47.07 %
-Other           3 hrs 9 mins    >>>>>--------------------   20.63 %
-TypeScript      1 hr 34 mins    >>>----------------------   10.30 %
-YAML            1 hr 24 mins    >>-----------------------   09.21 %
-Markdown        44 mins         >------------------------   04.79 %
+C#               14 hrs 32 mins  >>>>>>>>>>>>>>>----------   59.68 %
+Other            3 hrs 9 mins    >>>----------------------   12.96 %
+TypeScript       1 hr 49 mins    >>-----------------------   07.50 %
+YAML             1 hr 45 mins    >>-----------------------   07.20 %
+Markdown         44 mins         >------------------------   03.03 %
 ```
 
 <!--END_SECTION:waka-->
