@@ -19,13 +19,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 223 hrs 48 mins
+Total Time: 231 hrs 45 mins
 
-C#                        125 hrs 13 mins >>>>>>>>>>>>>>-----------   55.17 %
-TypeScript                49 hrs 47 mins  >>>>>--------------------   21.93 %
-HTML                      11 hrs 51 mins  >------------------------   05.22 %
-JSON                      8 hrs 33 mins   >------------------------   03.77 %
-SCSS                      4 hrs 22 mins   -------------------------   01.93 %
+C#                        125 hrs 15 mins >>>>>>>>>>>>>------------   53.31 %
+TypeScript                53 hrs 24 mins  >>>>>>-------------------   22.73 %
+HTML                      13 hrs 3 mins   >------------------------   05.56 %
+JSON                      8 hrs 34 mins   >------------------------   03.65 %
+SCSS                      7 hrs 27 mins   >------------------------   03.17 %
 ```
 
 <!--END_SECTION:waka-->
